@@ -14,3 +14,7 @@ This blog documents my hands-on experience logs
   defaultTheme = "auto"
   ShowReadingTime = true
   ShowShareButtons = true
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
